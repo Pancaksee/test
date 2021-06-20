@@ -1,0 +1,30 @@
+body {
+	font-family:'Tahoma';
+	background-image: url('../img/background.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	}
+a:link {
+	color:Black;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited {
+	color: Black;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: Green;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+a:active {
+	color: Black;
+	background-color: transparent;
+	text-decoration: underline;
+}
