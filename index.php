@@ -44,6 +44,14 @@
   <!-- Put body here -->
   <div class="center-vh">
     <!-- Centered area for stuff maybe -->
+    <img src="assets/img/logo.svg" width="400px" id="logo" alt="logo" />
+    <h2>SugarcaneMC</h2>
+    <h3>
+      A highly optimized <a href="https://airplane.gg/">Airplane</a> fork
+      focusing on stability and performance.
+    </h3>
+    <!--<a href="#">-->
+    <h4>Downloads coming soon!</h4>
   </div>
   <!-- End body -->
   <footer>

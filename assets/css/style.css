@@ -1,3 +1,9 @@
+body {
+  overflow: hidden !important;
+  overflow-y:hidden;
+  overflow-x:hidden;
+}
+
 footer {
   bottom: 0;
   right:0;
@@ -10,4 +16,5 @@ footer {
   top       : 50%;
   position  : absolute;
   transform : translate(-50%, -50%);
+  text-align: center;
 }
