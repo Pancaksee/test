@@ -18,3 +18,15 @@ footer {
   transform : translate(-50%, -50%);
   text-align: center;
 }
+
+#title {
+  font-size: 24px;
+}
+
+#desc {
+  font-size: 22px;
+}
+
+#comingsoon {
+  font-size: 18px;
+}
