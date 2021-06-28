@@ -24,14 +24,14 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarColor02">
         <ul class="navbar-nav me-auto">
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a class="nav-link active" href="#">Home
               <span class="visually-hidden">(current)</span>
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">About</a>
-          </li>
+          </li> -->
         </ul>
         <span style="font-size: 25px; margin-right: 10px;">
           <a href="https://github.com/SugarcaneMC/"><i class="fab fa-github"></i></a>
@@ -42,7 +42,9 @@
     </div>
   </nav>
   <!-- Put body here -->
-
+  <div class="center-vh">
+    <!-- Centered area for stuff maybe -->
+  </div>
   <!-- End body -->
   <footer>
     &copy; 2021-<?= date("Y") ?>
