@@ -24,14 +24,6 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarColor02">
         <ul class="navbar-nav me-auto">
-          <!-- <li class="nav-item">
-            <a class="nav-link active" href="#">Home
-              <span class="visually-hidden">(current)</span>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
-          </li> -->
         </ul>
         <span style="font-size: 25px; margin-right: 10px;">
           <a href="https://github.com/SugarcaneMC/"><i class="fab fa-github"></i></a>
@@ -51,7 +43,7 @@
     <span id="comingsoon">Downloads coming soon!</span>
   </div>
   <footer>
-    &copy; 2021-<?= date("Y") ?>
+    Made with <i style="color:red;" class="fas fa-heart"></i> by <a href="https://chrischromeyt.com">Chris Chrome</a> - &copy; 2021-<?= date("Y") ?>
     <a class="text-light" href="https://sugarcanemc.org/">SugarcaneMC</a>
   </footer>
 
