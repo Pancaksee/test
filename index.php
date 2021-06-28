@@ -41,19 +41,15 @@
       </div>
     </div>
   </nav>
-  <!-- Put body here -->
   <div class="center-vh">
-    <!-- Centered area for stuff maybe -->
     <img src="assets/img/logo.svg" width="400" id="logo" alt="logo" /></br>
     <span id="title">SugarcaneMC</span></br>
     <span id="desc">
       A highly optimized <a href="https://airplane.gg/">Airplane</a> fork
       focusing on stability and performance.
     </span></br>
-    <!--<a href="#">-->
     <span id="comingsoon">Downloads coming soon!</span>
   </div>
-  <!-- End body -->
   <footer>
     &copy; 2021-<?= date("Y") ?>
     <a class="text-light" href="https://sugarcanemc.org/">SugarcaneMC</a>
