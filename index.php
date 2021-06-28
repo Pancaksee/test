@@ -5,7 +5,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>SugarcaneMC</title>
-  <link rel="stylesheet" href="https://bootswatch.com/5/cyborg/bootstrap.min.css">
+  <link rel="stylesheet" href="https://bootswatch.com/5/darkly/bootstrap.min.css">
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.15.3/css/all.css">
@@ -41,12 +41,12 @@
       </div>
     </div>
   </nav>
+  <!-- Put body here -->
 
-  <footer class="bg-light text-center ">
-    <div class="text-center p-3">
-      &copy; 2021-<?=date("Y")?> 
-      <a class="text-dark" href="https://sugarcanemc.org/">SugarcaneMC</a>
-    </div>
+  <!-- End body -->
+  <footer>
+    &copy; 2021-<?= date("Y") ?>
+    <a class="text-light" href="https://sugarcanemc.org/">SugarcaneMC</a>
   </footer>
 
 </body>
