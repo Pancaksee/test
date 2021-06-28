@@ -21,10 +21,10 @@
       <h3>Downloads coming soon!</h3>
       <!--</a>-->
       <a href="https://github.com/SugarcaneMC/Sugarcane">
-        <img alt="GitHubLogo" src="img/github.png" width="5%" />
+        <img alt="GitHubLogo" src="/assets/img/github.png" width="5%" />
       </a>
       <a href="https://discord.gg/B6PNv2gav8">
-        <img alt="DiscordLogo" src="img/discord.png" width="5%" />
+        <img alt="DiscordLogo" src="/assets/img/discord.png" width="5%" />
       </a>
     </center>
   </body>
