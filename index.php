@@ -26,7 +26,7 @@
         <ul class="navbar-nav me-auto">
         </ul>
         <span style="font-size: 25px; margin-right: 10px;">
-          <a href="https://github.com/SugarcaneMC/"><i class="fab fa-github"></i></a>
+          <a href="/github"><i class="fab fa-github"></i></a>
           <a href="/discord"><i class="fab fa-discord"></i></a>
           <a href="https://ci.sugarcanemc.org"><i class="fas fa-server"></i></a>
         </span>
