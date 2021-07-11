@@ -1,7 +1,3 @@
-<?php 
-include($_SERVER['DOCUMENT_ROOT']."/assets/html/navbar.php");
-die;
-?>
 <!DOCTYPE html>
 <html>
 
