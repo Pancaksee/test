@@ -94,7 +94,7 @@
             <h5 class="mb-0">Chris Chrome</h5><span class="small text-uppercase text-muted">Core Team Helper | Web Designer</span>
             <ul class="social mb-0 list-inline mt-3">
               <li class="list-inline-item"><a href="https://chrischromeyt.com/" class="social-link"><i style="color: #FFF;" class="far fa-browser"></i></a></li>
-              <li class="list-inline-item"><a href="https://twitter.com/LeChrisChrome" class="social-link"><i style="color: #FFF;" class="fa fa-twitter"></i></a></li>
+              <li class="list-inline-item"><a href="https://twitter.com/LeChrisChrome" class="social-link"><i style="color: #FFF;" class="fab fa-twitter"></i></i></a></li>
               <li class="list-inline-item"><a href="https://github.com/ChrisChrome" class="social-link"><i style="color: #FFF;" class="fab fa-github"></i></a></li>
               <li class="list-inline-item"><a href="https://gitlab.com/ChrisChrome" class="social-link"><i style="color: #FFF;" class="fab fa-gitlab"></i></a></li>
               <li class="list-inline-item"><a href="https://steamcommunity.com/id/ChrisChrome/" class="social-link"><i style="color: #FFF;" class="fab fa-steam"></i></a></li>
@@ -117,7 +117,7 @@
           <div class="py-5 px-4"><img src="/assets/img/team/Ixogamer.gif" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
             <h5 class="mb-0">Ixogamer</h5><span class="small text-uppercase text-muted">Core Team Helper</span>
             <ul class="social mb-0 list-inline mt-3">
-              <li class="list-inline-item"><a href="https://twitter.com/Ixogamer_" class="social-link"><i style="color: #FFF;" class="fa fa-twitter"></i></a></li>
+              <li class="list-inline-item"><a href="https://twitter.com/Ixogamer_" class="social-link"><i style="color: #FFF;" class="fab fa-twitter"></i></i></a></li>
               <li class="list-inline-item"><a href="https://github.com/Ixogamer" class="social-link"><i style="color: #FFF;" class="fab fa-github"></i></a></li>
             </ul>
           </div>
