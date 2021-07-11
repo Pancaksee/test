@@ -1,17 +1,16 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
         <a class="navbar-brand" href="/"><img src="/assets/img/logo.svg" width="40px">SugarcaneMC</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02"
-            aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarColor02">
             <ul class="navbar-nav me-auto">
                 <li class="nav-item">
-                    <a class="nav-link <?=($_SERVER['DOCUMENT_URI'] == "/index.php")?"active":""?>" href="/">Home</a>
+                    <a class="nav-link <?= ($_SERVER['DOCUMENT_URI'] == "/index.php") ? "active" : "" ?>" href="/">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link <?=($_SERVER['DOCUMENT_URI'] == "/team/index.php")?"active":""?>" href="/team">Team</a>
+                    <a class="nav-link <?= ($_SERVER['DOCUMENT_URI'] == "/team/index.php") ? "active" : "" ?>" href="/team">Team</a>
                 </li>
             </ul>
             <span style="font-size: 25px; margin-right: 10px;">
