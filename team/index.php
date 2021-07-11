@@ -132,6 +132,7 @@
             <h5 class="mb-0">Sholomon</h5><span class="small text-uppercase text-muted">Core Team Helper</span>
             <ul class="social mb-0 list-inline mt-3">
               <li class="list-inline-item"><a href="https://www.facebook.com/misha.ilichev/" class="social-link"><i style="color: #FFF;" class="fab fa-facebook-f"></i></a></li>
+              <li class="list-inline-item"><a href="https://www.twitch.tv/bronz_warrior" class="social-link"><i style="color: #FFF;" class="fab fa-twitch"></i></a></li>
             </ul>
           </div>
         </div>
