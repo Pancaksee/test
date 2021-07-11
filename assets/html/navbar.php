@@ -1,5 +1,5 @@
-<?=$_SERVER?>
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<?=phpinfo()?>
+<!-- <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
         <a class="navbar-brand" href="/"><img src="/assets/img/logo.svg" width="40px">SugarcaneMC</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02"
@@ -22,4 +22,4 @@
             </span>
         </div>
     </div>
-</nav>
+</nav> -->
