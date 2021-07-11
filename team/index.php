@@ -36,7 +36,6 @@
   <div class="center-vh">
     <div class="container py-5 center-vh">
       <div class="row text-center">
-        <!-- Team item-->
         <div class="col-xl-3 card text-white bg-dark col-sm-6">
           <div class="py-5 px-4"><img src="/assets/img/team/nevetS.gif" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
             <h5 class="mb-0"> Steven Tracey </h5><span class="small text-uppercase text-muted">Core Team</span>
@@ -129,7 +128,6 @@
             </ul>
           </div>
         </div>
-        <!-- End-->
       </div>
     </div>
 
