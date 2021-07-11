@@ -17,6 +17,21 @@
       transform: translate(-50%, -50%);
       text-align: center;
     } */
+    a:link {
+      text-decoration: none;2
+    }
+
+    a:visited {
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: none;
+    }
+
+    a:active {
+      text-decoration: none;
+    }
   </style>
   <meta property="og:title" content="SugarcaneMC" />
   <meta property="og:description" content="SugarcaneMC - The high performance Minecraft server you've always wished for!" />
@@ -33,9 +48,9 @@
           <div class="rounded shadow-sm py-5 px-4"><img src="/assets/img/team/nevetS.gif" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
             <h5 class="mb-0"> Steven Tracey </h5><span class="small text-uppercase text-muted">Core Team</span>
             <ul class="social mb-0 list-inline mt-3">
-              <li class="list-inline-item"><a href="http://nevets.tech/" class="social-link"><i class="far fa-browser"></i></a></li>
-              <li class="list-inline-item"><a href="https://github.com/nevetS-718" class="social-link"><i class="fab fa-github"></i></a></li>
-              <li class="list-inline-item"><a href="https://twitter.com/StevenTracey17" class="social-link"><i class="fab fa-twitter"></i></i></a></li>
+              <li class="list-inline-item"><a href="http://nevets.tech/" class="social-link"><i style="color: #FFF;" class="far fa-browser"></i></a></li>
+              <li class="list-inline-item"><a href="https://github.com/nevetS-718" class="social-link"><i style="color: #FFF;" class="fab fa-github"></i></a></li>
+              <li class="list-inline-item"><a href="https://twitter.com/StevenTracey17" class="social-link"><i style="color: #FFF;" class="fab fa-twitter"></i></i></a></li>
             </ul>
           </div>
         </div>
@@ -46,10 +61,10 @@
           <div class="rounded shadow-sm py-5 px-4"><img src="/assets/img/team/TheArcaneBrony.png" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
             <h5 class="mb-0">The Arcane Brony</h5><span class="small text-uppercase text-muted">Core Team</span>
             <ul class="social mb-0 list-inline mt-3">
-              <li class="list-inline-item"><a href="https://thearcanebrony.net/" class="social-link"><i class="far fa-browser"></i></a></li>
-              <li class="list-inline-item"><a href="https://github.com/TheArcaneBrony" class="social-link"><i class="fab fa-github"></i></a></li>
-              <li class="list-inline-item"><a href="https://gitlab.com/TheArcaneBrony" class="social-link"><i class="fab fa-gitlab"></i></a></li>
-              <li class="list-inline-item"><a href="https://twitter.com/TheArcaneBrony" class="social-link"><i class="fab fa-twitter"></i></i></a></li>
+              <li class="list-inline-item"><a href="https://thearcanebrony.net/" class="social-link"><i style="color: #FFF;" class="far fa-browser"></i></a></li>
+              <li class="list-inline-item"><a href="https://github.com/TheArcaneBrony" class="social-link"><i style="color: #FFF;" class="fab fa-github"></i></a></li>
+              <li class="list-inline-item"><a href="https://gitlab.com/TheArcaneBrony" class="social-link"><i style="color: #FFF;" class="fab fa-gitlab"></i></a></li>
+              <li class="list-inline-item"><a href="https://twitter.com/TheArcaneBrony" class="social-link"><i style="color: #FFF;" class="fab fa-twitter"></i></i></a></li>
             </ul>
           </div>
         </div>
@@ -60,7 +75,7 @@
           <div class="rounded shadow-sm py-5 px-4"><img src="/assets/img/team/greysilly.png" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
             <h5 class="mb-0">greysilly7</h5><span class="small text-uppercase text-muted">Core Team</span>
             <ul class="social mb-0 list-inline mt-3">
-              <li class="list-inline-item"><a href="https://github.com/greysilly7" class="social-link"><i class="fab fa-github"></i></a></li>
+              <li class="list-inline-item"><a href="https://github.com/greysilly7" class="social-link"><i style="color: #FFF;" class="fab fa-github"></i></a></li>
             </ul>
           </div>
         </div>
@@ -71,7 +86,7 @@
           <div class="rounded shadow-sm py-5 px-4"><img src="/assets/img/team/tofik.png" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
             <h5 class="mb-0">Tofik</h5><span class="small text-uppercase text-muted">Core Team</span>
             <ul class="social mb-0 list-inline mt-3">
-              <li class="list-inline-item"><a href="https://github.com/Toffikk" class="social-link"><i class="fab fa-github"></i></a></li>
+              <li class="list-inline-item"><a href="https://github.com/Toffikk" class="social-link"><i style="color: #FFF;" class="fab fa-github"></i></a></li>
             </ul>
           </div>
         </div>
@@ -82,11 +97,11 @@
           <div class="rounded shadow-sm py-5 px-4"><img src="/assets/img/team/ChrisChrome.png" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
             <h5 class="mb-0">Chris Chrome</h5><span class="small text-uppercase text-muted">Core Team Helper | Web Designer</span>
             <ul class="social mb-0 list-inline mt-3">
-              <li class="list-inline-item"><a href="https://chrischromeyt.com/" class="social-link"><i class="far fa-browser"></i></a></li>
-              <li class="list-inline-item"><a href="https://twitter.com/LeChrisChrome" class="social-link"><i class="fa fa-twitter"></i></a></li>
-              <li class="list-inline-item"><a href="https://github.com/ChrisChrome" class="social-link"><i class="fab fa-github"></i></a></li>
-              <li class="list-inline-item"><a href="https://gitlab.com/ChrisChrome" class="social-link"><i class="fab fa-gitlab"></i></a></li>
-              <li class="list-inline-item"><a href="https://steamcommunity.com/id/ChrisChrome/" class="social-link"><i class="fab fa-steam"></i></a></li>
+              <li class="list-inline-item"><a href="https://chrischromeyt.com/" class="social-link"><i style="color: #FFF;" class="far fa-browser"></i></a></li>
+              <li class="list-inline-item"><a href="https://twitter.com/LeChrisChrome" class="social-link"><i style="color: #FFF;" class="fa fa-twitter"></i></a></li>
+              <li class="list-inline-item"><a href="https://github.com/ChrisChrome" class="social-link"><i style="color: #FFF;" class="fab fa-github"></i></a></li>
+              <li class="list-inline-item"><a href="https://gitlab.com/ChrisChrome" class="social-link"><i style="color: #FFF;" class="fab fa-gitlab"></i></a></li>
+              <li class="list-inline-item"><a href="https://steamcommunity.com/id/ChrisChrome/" class="social-link"><i style="color: #FFF;" class="fab fa-steam"></i></a></li>
             </ul>
           </div>
         </div>
@@ -108,8 +123,8 @@
           <div class="rounded shadow-sm py-5 px-4"><img src="/assets/img/team/Ixogamer.gif" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
             <h5 class="mb-0">Ixogamer</h5><span class="small text-uppercase text-muted">Core Team Helper</span>
             <ul class="social mb-0 list-inline mt-3">
-              <li class="list-inline-item"><a href="https://twitter.com/Ixogamer_" class="social-link"><i class="fa fa-twitter"></i></a></li>
-              <li class="list-inline-item"><a href="https://github.com/Ixogamer" class="social-link"><i class="fab fa-github"></i></a></li>
+              <li class="list-inline-item"><a href="https://twitter.com/Ixogamer_" class="social-link"><i style="color: #FFF;" class="fa fa-twitter"></i></a></li>
+              <li class="list-inline-item"><a href="https://github.com/Ixogamer" class="social-link"><i style="color: #FFF;" class="fab fa-github"></i></a></li>
             </ul>
           </div>
         </div>
