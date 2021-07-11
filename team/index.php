@@ -16,11 +16,11 @@
 </head>
 
 <body>
-  <?=include($_SERVER['DOCUMENT_ROOT']."/assets/html/navbar.php");?>
+  <?php include($_SERVER['DOCUMENT_ROOT']."/assets/html/navbar.php");?>
   <div class="center-vh">
     <!-- Put team stuff here -->
   </div>
-  <?=include($_SERVER['DOCUMENT_ROOT']."/assets/html/footer.php");?>
+  <?php include($_SERVER['DOCUMENT_ROOT']."/assets/html/footer.php");?>
 
 </body>
 

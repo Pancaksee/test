@@ -16,7 +16,7 @@
 </head>
 
 <body>
-  <?=include($_SERVER['DOCUMENT_ROOT']."/assets/html/navbar.php");?>
+  <?php include($_SERVER['DOCUMENT_ROOT']."/assets/html/navbar.php");?>
   <div class="center-vh">
     <img src="assets/img/logo.svg" width="400" id="logo" alt="logo" /></br>
     <span id="title">SugarcaneMC</span></br>
@@ -26,7 +26,7 @@
     </span></br>
     <span id="comingsoon">Downloads coming soon!</span>
   </div>
-  <?=include($_SERVER['DOCUMENT_ROOT']."/assets/html/footer.php");?>
+  <?php include($_SERVER['DOCUMENT_ROOT']."/assets/html/footer.php");?>
 
 </body>
 
