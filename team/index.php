@@ -106,6 +106,7 @@
             <ul class="social mb-0 list-inline mt-3">
               <li class="list-inline-item"><a href="https://twitter.com/Ixogamer_" class="social-link"><i style="color: #FFF;" class="fab fa-twitter"></i></i></a></li>
               <li class="list-inline-item"><a href="https://github.com/Ixogamer" class="social-link"><i style="color: #FFF;" class="fab fa-github"></i></a></li>
+              <li class="list-inline-item"><a href="https://www.reddit.com/user/Ixogamer" class="social-link"><i style="color: #FFF;" class="fab fa-reddit-alien"></i></a></li>
             </ul>
           </div>
         </div>
