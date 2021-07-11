@@ -1,5 +1,6 @@
-<?php include($_SERVER['DOCUMENT_ROOT']."/assets/html/navbar.php");
-end(0);
+<?php 
+include($_SERVER['DOCUMENT_ROOT']."/assets/html/navbar.php");
+die;
 ?>
 <!DOCTYPE html>
 <html>
