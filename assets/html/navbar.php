@@ -1,4 +1,6 @@
-<?=phpinfo()?>
+<?php
+phpinfo();
+?>
 <!-- <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
         <a class="navbar-brand" href="/"><img src="/assets/img/logo.svg" width="40px">SugarcaneMC</a>

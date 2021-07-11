@@ -1,3 +1,6 @@
+<?php include($_SERVER['DOCUMENT_ROOT']."/assets/html/navbar.php");
+end(0);
+?>
 <!DOCTYPE html>
 <html>
 
