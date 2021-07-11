@@ -134,7 +134,6 @@
     <style type="text/css">
       .img-thumbnail {
         padding: .25rem;
-        background-color: #fff;
         border: 1px solid #dee2e6;
         border-radius: .25rem;
         max-width: 100%;
