@@ -9,13 +9,14 @@
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.15.3/css/all.css">
-  <link rel="stylesheet" href="/assets/css/style.css">
   <style>
-    body {
-      overflow: default !important;
-      overflow-y: default !important;
-      overflow-x: default !important;
-    }
+    /* .center-vh {
+      left: 50%;
+      top: 50%;
+      position: absolute;
+      transform: translate(-50%, -50%);
+      text-align: center;
+    } */
   </style>
   <meta property="og:title" content="SugarcaneMC" />
   <meta property="og:description" content="SugarcaneMC - The high performance Minecraft server you've always wished for!" />
@@ -162,7 +163,6 @@
       }
     </style>
   </div>
-  <?php include($_SERVER['DOCUMENT_ROOT'] . "/assets/html/footer.php"); ?>
 
 </body>
 
