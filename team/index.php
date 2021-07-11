@@ -47,8 +47,7 @@
             </ul>
           </div>
         </div>
-        <!-- End-->
-        <!-- Team item-->
+
         <div class="col-xl-3 card text-white bg-dark col-sm-6">
           <div class="py-5 px-4"><img src="/assets/img/team/TheArcaneBrony.png" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
             <h5 class="mb-0">The Arcane Brony</h5><span class="small text-uppercase text-muted">Core Team</span>
@@ -60,8 +59,7 @@
             </ul>
           </div>
         </div>
-        <!-- End-->
-        <!-- Team item-->
+
         <div class="col-xl-3 card text-white bg-dark col-sm-6">
           <div class="py-5 px-4"><img src="/assets/img/team/greysilly.png" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
             <h5 class="mb-0">greysilly7</h5><span class="small text-uppercase text-muted">Core Team</span>
@@ -70,8 +68,7 @@
             </ul>
           </div>
         </div>
-        <!-- End-->
-        <!-- Team item-->
+
         <div class="col-xl-3 card text-white bg-dark col-sm-6">
           <div class="py-5 px-4"><img src="/assets/img/team/tofik.png" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
             <h5 class="mb-0">Tofik</h5><span class="small text-uppercase text-muted">Core Team</span>
@@ -80,8 +77,7 @@
             </ul>
           </div>
         </div>
-        <!-- End-->
-        <!-- Team item-->
+
         <div class="col-xl-3 card text-white bg-dark col-sm-6">
           <div class="py-5 px-4"><img src="/assets/img/team/ChrisChrome.png" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
             <h5 class="mb-0">Chris Chrome</h5><span class="small text-uppercase text-muted">Core Team Helper | Web Designer</span>
@@ -94,8 +90,7 @@
             </ul>
           </div>
         </div>
-        <!-- End-->
-        <!-- Team item-->
+
         <div class="col-xl-3 card text-white bg-dark col-sm-6">
           <div class="py-5 px-4"><img src="/assets/img/team/3305.png" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
             <h5 class="mb-0">3305</h5><span class="small text-uppercase text-muted">Core Team Helper</span>
@@ -104,8 +99,7 @@
             </ul>
           </div>
         </div>
-        <!-- End-->
-        <!-- Team item-->
+
         <div class="col-xl-3 card text-white bg-dark col-sm-6">
           <div class="py-5 px-4"><img src="/assets/img/team/Ixogamer.gif" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
             <h5 class="mb-0">Ixogamer</h5><span class="small text-uppercase text-muted">Core Team Helper</span>
@@ -115,8 +109,7 @@
             </ul>
           </div>
         </div>
-        <!-- End-->
-        <!-- Team item-->
+
         <div class="col-xl-3 card text-white bg-dark col-sm-6">
           <div class="py-5 px-4"><img src="/assets/img/team/kylepoops.png" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
             <h5 class="mb-0">Kylepoops</h5><span class="small text-uppercase text-muted">Core Team Helper</span>
@@ -125,8 +118,7 @@
             </ul>
           </div>
         </div>
-        <!-- End-->
-        <!-- Team item-->
+
         <div class="col-xl-3 card text-white bg-dark col-sm-6">
           <div class="py-5 px-4"><img src="/assets/img/team/sholomon.png" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
             <h5 class="mb-0">Sholomon</h5><span class="small text-uppercase text-muted">Core Team Helper</span>
