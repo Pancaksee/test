@@ -1,8 +1,3 @@
-<?php
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-?>
 <!DOCTYPE html>
 <html>
 
@@ -31,10 +26,7 @@ error_reporting(E_ALL);
     </span></br>
     <span id="comingsoon">Downloads coming soon!</span>
   </div>
-  <footer>
-    Made with <i style="color:red;" class="fas fa-heart"></i> by <a href="https://chrischromeyt.com">Chris Chrome</a> - &copy; 2021-<?= date("Y") ?>
-    <a class="text-light" href="https://sugarcanemc.org/">SugarcaneMC</a>
-  </footer>
+  <?=include($_SERVER['DOCUMENT_ROOT']."/assets/html/footer.php");?>
 
 </body>
 
