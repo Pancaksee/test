@@ -41,7 +41,7 @@
 <body>
   <?php include($_SERVER['DOCUMENT_ROOT'] . "/assets/html/navbar.php"); ?>
   <div class="center-vh">
-    <div class="container center-vh py-5">
+    <div class="container center-vh">
       <div class="row text-center">
         <!-- Team item-->
         <div class="col-xl-3 card text-white bg-dark col-sm-6">
