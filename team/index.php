@@ -73,6 +73,7 @@
             <h5 class="mb-0">Tofik</h5><span class="small text-uppercase text-muted">Core Team</span>
             <ul class="social mb-0 list-inline mt-3">
               <li class="list-inline-item"><a href="https://github.com/Toffikk" class="social-link"><i style="color: #FFF;" class="fab fa-github"></i></a></li>
+              <li class="list-inline-item"><a href="https://gitlab.com/ToficzeK_OwO" class="social-link"><i style="color: #FFF;" class="fab fa-gitlab"></i></a></li>
             </ul>
           </div>
         </div>
