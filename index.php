@@ -21,7 +21,7 @@ error_reporting(E_ALL);
 </head>
 
 <body>
-  <?=include(dirname(__DIR__)."/assets/html/navbar.php");?>
+  <?=include($_SERVER['DOCUMENT_ROOT']."/assets/html/navbar.php");?>
   <div class="center-vh">
     <img src="assets/img/logo.svg" width="400" id="logo" alt="logo" /></br>
     <span id="title">SugarcaneMC</span></br>
