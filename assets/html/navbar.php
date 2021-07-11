@@ -8,10 +8,10 @@
         <div class="collapse navbar-collapse" id="navbarColor02">
             <ul class="navbar-nav me-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Home</a>
+                    <a class="nav-link <?=($_SERVER['DOCUMENT_URI'] == "/")?"active":""?>" href="/">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/team">Team</a>
+                    <a class="nav-link <?=($_SERVER['DOCUMENT_URI'] == "/team")?"active":""?>" href="/team">Team</a>
                 </li>
             </ul>
             <span style="font-size: 25px; margin-right: 10px;">
