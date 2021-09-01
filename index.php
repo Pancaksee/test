@@ -21,7 +21,7 @@
     <img src="assets/img/logo.svg" width="400" id="logo" alt="logo" /></br>
     <span id="title">SugarcaneMC</span></br>
     <span id="desc">
-      A highly optimized <a href="https://airplane.gg/">Airplane</a> fork
+      A highly optimized <a href="https://purpur.pl3x.net/">Purpur</a> fork
       focusing on stability and performance.
     </span></br>
     <span id="comingsoon">Downloads coming soon!</span>
