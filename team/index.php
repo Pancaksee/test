@@ -93,7 +93,7 @@
 
 				<div class="col-xl-3 card text-white bg-dark col-sm-6">
 					<div class="py-5 px-4"><img src="/assets/img/team/3305.png" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
-						<h5 class="mb-0">3305</h5><span class="small text-uppercase text-muted">Core Team Helper</span>
+						<h5 class="mb-0">5GI</h5><span class="small text-uppercase text-muted">Core Team Helper</span>
 						<ul class="social mb-0 list-inline mt-3">
 							<!-- 3305, if you're reading this, DM me some stuff to put here lol -->
 						</ul>
