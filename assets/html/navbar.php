@@ -17,7 +17,7 @@
                 <a href="/github"><i class="fab fa-github"></i></a>
                 <a href="/discord"><i class="fab fa-discord"></i></a>
                 <a href="https://ci.sugarcanemc.org"><i class="fas fa-server"></i></a>
-				<a href="https://status.sugarcanemc.org"><i class="fa-duotone fa-timer"></i></a>
+				<a href="https://status.sugarcanemc.org"><i class="fas fa-monitor-heart-rate"></i></a>
             </span>
         </div>
     </div>
